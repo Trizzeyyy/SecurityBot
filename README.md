@@ -1,6 +1,6 @@
 ## VerificationBot
 
-TheVerification Bot is a Discord bot designed to provide a secure verification system for Discord servers. It uses captchas to verify new members and allows server admins to assign roles based on successful verification. (Captcha Verification, Role Management and Easy Setup)
+This Verification Bot is a Discord bot designed to provide a secure verification system for Discord servers. It uses captchas to verify new members and allows server admins to assign roles based on successful verification. (Captcha Verification, Role Management and Easy Setup)
 
 
 
