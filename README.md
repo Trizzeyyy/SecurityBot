@@ -12,7 +12,7 @@ TheVerification Bot is a Discord bot designed to provide a secure verification s
 
 ### Install dependencies:
 
-```cd lux-club-verification-bot```
+```cd SecurityBot```
 ```npm install```
 
 ### Configuration: 
